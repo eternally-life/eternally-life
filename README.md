@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @eternally-life
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html and python
-- 💞️ I’m looking to collaborate on Huawei
-- 📫 How to reach me 1021495425@qq.com
-
-<!---
-eternally-life/eternally-life is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 我是一名前端开发者，我对web开发非常热爱，并一直在学习和探索新技术。
+我主要使用的编程语言是HTML、CSS、JavaScript，以及一些常用的前端框架和库，比如React、Vue、Bootstrap等。我也喜欢尝试新技术，例如TypeScript、Next.js、Tailwind CSS等等。
+在我的GitHub仓库中，你可以找到我练习和学习的项目、个人作品、以及一些有趣的代码片段。我致力于写出干净、可读性强、易于维护的代码，并遵循最佳实践和行业标准。
+如果您对我的项目或者我在GitHub上的贡献感兴趣，请随时联系我，我非常愿意与你分享我的经验和知识。
